@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World!
+
+Let's code some Python :)
 
 <!--
 **nick-vtv/nick-vtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
